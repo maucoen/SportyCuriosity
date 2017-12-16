@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7139AE36-4B6E-DE1A-1139-C687D1651063}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SportyCuriosity",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
