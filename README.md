@@ -1,4 +1,4 @@
 # SportyCuriosity
 Curiosity demo 
 
-![Demo](https://github.com/maucoen/SportyCuriosity/WebContent/CuriosityMars.gif "Demo"
+![Demo](https://github.com/maucoen/SportyCuriosity/CuriosityMars.gif "Demo"
